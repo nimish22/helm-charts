@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.27.5
+    created: "2025-06-20T13:56:07.248383-07:00"
+    description: Chart to deploy Nginx
+    digest: bbb3fda46a1468d2a66d16aba26b58d505aa9c7ac7ca963e5712aa8b46ab271f
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-20T13:56:07.247735-07:00"
